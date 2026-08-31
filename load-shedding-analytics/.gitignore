@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+load_shedding.db
+.DS_Store
+
+# Note: chart PNGs (outputs_*.png) are intentionally NOT ignored -
+# keep a few in the repo so they render directly in the README on GitHub.
